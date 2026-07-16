@@ -1,0 +1,6 @@
+{
+  "name": "Task Reminder",
+  "description": "An elegant, modern task manager with robust, automated local reminders and custom status tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
